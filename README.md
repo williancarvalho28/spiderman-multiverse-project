@@ -10,7 +10,7 @@
 </h2>
 <hr>
 
-## 💻 Projeto
+## 💻 [Projeto](https://spiderman-universe.netlify.app/)
 Projeto focado em criar um site temático usando a tríade (HTML, CSS e JavaScript) do Desenvolvimento Front-End.
 Projeto ensinado e acompanhado pelos instrutores da Digital Innovation One durante uma [Live Coding](https://www.youtube.com/watch?v=a29-lfFi9Qc)
 <br>
